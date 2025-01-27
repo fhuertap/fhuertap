@@ -1,8 +1,10 @@
-## Hi there 👋
-## My name is Fer and you can call me Fer, I'm noobie on this but I'm not affraid. 🤖
+# Hi there 👋
+# My name is Fer and you can call me Fer, I'm noobie on this but I'm not affraid. 🤖
+
 ## 🔭 I’m currently working on C# and T-Sql devs
 ## 🌱 And actually I’m currently learning C# and T-Sql (toast: xD)
 ## ⚡ Fun fact: I think this README.md in our profiles looks good and I even took a course to make it appears on mine. By the way, Is completely necessary to write the # sign? :)
+
 ### Oh, I'm sorry, I saw why I need to write the # sign. :D
 
 
